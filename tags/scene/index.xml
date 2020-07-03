@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Digital Novelty LLC</title>
+    <link>https://harsha2409.github.io/DigitalNovelty_test2/tags/scene/</link>
+    <description>Recent content in scene on Digital Novelty LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://harsha2409.github.io/DigitalNovelty_test2/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 4: Data Cleaning</title>
+      <link>https://harsha2409.github.io/DigitalNovelty_test2/post/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://harsha2409.github.io/DigitalNovelty_test2/post/chapter-4/</guid>
+      <description>Garbage In Garbage out</description>
+    </item>
+    
+    <item>
+      <title>Project 1: NLP</title>
+      <link>https://harsha2409.github.io/DigitalNovelty_test2/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://harsha2409.github.io/DigitalNovelty_test2/post/chapter-1/</guid>
+      <description>Python is so cool!</description>
+    </item>
+    
+  </channel>
+</rss>
